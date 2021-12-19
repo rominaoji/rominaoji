@@ -30,8 +30,8 @@
 ## Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-##
+## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rominaoji&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/rominaoji/github-readme-stats)
 
-##
+## Most Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rominaoji&layout=compact&theme=tokyonight)](https://github.com/rominaoji/github-readme-stats)
