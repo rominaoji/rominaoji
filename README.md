@@ -29,8 +29,8 @@
 
 ## GitHub Stats
 <div>
-  <img width="48%" height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rominaoji&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rominaoji" />
-  <img width="48%" height="150"  src="https://github-readme-streak-stats.herokuapp.com/?user=rominaoji&theme=tokyonight" alt="rominaoji" />
+  <img width="48%" height="150vh" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rominaoji&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rominaoji" />
+  <img width="48%" height="150vh"  src="https://github-readme-streak-stats.herokuapp.com/?user=rominaoji&theme=tokyonight" alt="rominaoji" />
 </div>
 
 <br>
