@@ -29,13 +29,11 @@
 
 ## GitHub Stats
 <div>
-  <img width="49%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rominaoji&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rominaoji" />
-  <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=rominaoji&theme=tokyonight" alt="rominaoji" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rominaoji&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rominaoji" />
+  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=rominaoji&theme=tokyonight" alt="rominaoji" />
 </div>
 
 <!--<center><img src="https://github-readme-stats.vercel.app/api?username=rominaoji&show_icons=true&theme=tokyonight&count_private=true&locale=en&layout=compact" alt="rominaoji" style="width:50%"></center>-->
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=rominaoji&show_icons=true&theme=tokyonight&count_private=true&locale=en&layout=compact" alt="Paris" style="display: block; margin-left: auto; margin-right: auto; width:70%">
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rominaoji&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Paris" style="display: block; margin-left: auto; margin-right: auto; width:50%">
 
