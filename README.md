@@ -27,11 +27,9 @@
 ## Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## GitHub Stats
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=rominaoji&show_icons=true&theme=tokyonight&count_private=true&locale=en&layout=compact" alt="rominaoji" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=rominaoji&" alt="rominaoji" />
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rominaoji&show_icons=true&locale=en&layout=compact" alt="rominaoji" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=rominaoji&theme=tokyonight" alt="rominaoji" />
+  <img style="width: 70%; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=rominaoji&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rominaoji" />
 </div>
-
-## Most Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rominaoji&layout=compact&theme=tokyonight)](https://github.com/rominaoji/github-readme-stats)
