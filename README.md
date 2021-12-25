@@ -33,7 +33,9 @@
   <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=rominaoji&theme=tokyonight" alt="rominaoji" />
 </div>
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=rominaoji&show_icons=true&theme=tokyonight&count_private=true&locale=en&layout=compact" alt="Paris" style="display: block; margin-left: auto; margin-right: auto; width:70%">
-</div>
+<br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rominaoji&show_icons=true&theme=tokyonight&count_private=true&locale=en&layout=compact" alt="Paris" style="display: block; margin-left: auto; margin-right: auto; ">
+</p>
 
