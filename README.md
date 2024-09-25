@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Chatbots with Large Language Models(LLM)
 - 💬 I'm in love with Natural Language Processing !
-- 📫 How to reach me: romina.oji.ro@gmail.com
+- 📫 How to reach me: oji.romina@gmail.com
 
 
 ## Programming Languages
