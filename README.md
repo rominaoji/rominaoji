@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Chatbots with Large Language Models(LLM)
+- 🔭 I’m currently working on Advancing Germanic Language Models through an Adapter Framework
 - 💬 I'm in love with Natural Language Processing !
 - 📫 How to reach me: oji.romina@gmail.com
 
